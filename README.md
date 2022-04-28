@@ -1,4 +1,4 @@
-# aicpa-dynamodb
+# dynamodb-scripts
 First run
 - update `tableName` on each script
 - update `AWS.config` on each script
